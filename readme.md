@@ -10,5 +10,8 @@ Prerequisites:
 - VLOOKUP
 - functions
 
+```
 - Pasta Complete - material entregue pelo curso já completado.
 - Pasta Incomplete - material feito por mim, acompanhando as aulas - possível todos os conhecimentos que passei.
+- Ensaios - ideias que tive de analise de dado e eu mesmo fiz.
+```
